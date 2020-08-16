@@ -31,7 +31,7 @@ The group is expected to present the project and convince an audience that it se
 
 ## **CONTRIBUTORS** 
 > Christopher Hadley | <hadleyc15@yahoo.com> | [github](https://github.com/hadleyc15)    
-> Jim Hopkinson | <jim@gmail.com> | [github](https://github.com/1hoppy1)  
+> Jim Hopkinson | <jahopki@hotmail.com> | [github](https://github.com/1hoppy1)  
 > Brandon Jackson | <brandonljackson23@gmail.com> | [github](https://github.com/brandonljackson23)
 
 ## **DEVELOPMENT**
